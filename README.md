@@ -1,2 +1,1 @@
-# Functional-Rice
-an attempt at making a Arch Linux rice
+Image storage repo dont mind me
